@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_product_page/static/css/main.77438f24.css",
+    "main.js": "/react_product_page/static/js/main.e4697574.js",
+    "index.html": "/react_product_page/index.html",
+    "main.77438f24.css.map": "/react_product_page/static/css/main.77438f24.css.map",
+    "main.e4697574.js.map": "/react_product_page/static/js/main.e4697574.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77438f24.css",
+    "static/js/main.e4697574.js"
+  ]
+}
